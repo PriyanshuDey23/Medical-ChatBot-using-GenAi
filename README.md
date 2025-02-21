@@ -1,6 +1,6 @@
-# Medical-ChatBot-using-GenAi
-
 # End-to-End Medical Chatbot - Generative AI
+
+![](output.png)
 
 An advanced, end-to-end generative AI chatbot designed for the medical domain, leveraging Pinecone for vector indexing, OpenAI's GPT for generative responses, and LangChain for seamless language model integration. This project includes cloud deployment via AWS with CI/CD setup using GitHub Actions.
 
@@ -21,7 +21,7 @@ Follow these steps to set up and run the chatbot locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/PriyanshuDey23/Medical-ChatBot-using-GenAi
+   git clone https://github.com/PriyanshuDey23/Medical-ChatBot-using-GenAi.git
    
    ```
 
