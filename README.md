@@ -2,7 +2,7 @@
 
 ![](output.png)
 
-An advanced, end-to-end generative AI chatbot designed for the medical domain, leveraging Pinecone for vector indexing, OpenAI's GPT for generative responses, and LangChain for seamless language model integration. This project includes cloud deployment via AWS with CI/CD setup using GitHub Actions.
+An advanced, end-to-end generative AI chatbot designed for the medical domain, leveraging Pinecone for vector indexing, Google Gemini for generative responses, and LangChain for seamless language model integration. This project includes cloud deployment via AWS with CI/CD setup using GitHub Actions.
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ To run this project, you will need:
 - [Python 3.10](https://www.python.org/)
 - [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) for environment management
 - AWS account with EC2 and ECR access
-- OpenAI and Pinecone API credentials
+- Gemini and Pinecone API credentials
 
 ### Installation and Setup
 
